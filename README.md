@@ -3,7 +3,7 @@
 See http://www.defcodeprojects.com for more details
 
 ## Platform: 
-Windows. Uses [LibStk](https://ccrma.stanford.edu/software/stk/) as the basis for grain generation and playback.
+Windows. Uses [LibStk](https://ccrma.stanford.edu/software/stk/) as the basis for grain generation and playback. I made a bunch of changes to the LibStk, but only the dll is included here. I can dig that code out if anyone ever asks for it... 
 
 ## Description
 Runs grain synthesis on a wav file to create a "stretching" effect on the playback of the selected portion of the file.
